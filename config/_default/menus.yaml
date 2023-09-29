@@ -1,0 +1,82 @@
+leftnav:
+- identifier: 5988e1c4-de2b-c19a-7db5-c3558f874ebd
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 23f226c3-4e30-2f11-dc4e-87392b60faae
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 7f678ce8-269f-1791-ba30-632602d8701b
+  name: Teaching Students to Solve Problems
+  pageRef: /pages/instructor-insights/teaching-students-to-solve-problems
+  parent: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
+  weight: 40
+- identifier: 323a37f2-a2df-53bf-e1bc-25d45d1cdbe1
+  name: Interacting with Students in a Large Class
+  pageRef: /pages/instructor-insights/interacting-with-students-in-a-large-class
+  parent: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
+  weight: 50
+- identifier: 29ceafc7-b2c9-ae84-8586-d363e9786162
+  name: Anatomy of a Lecture
+  pageRef: /pages/instructor-insights/anatomy-of-a-lecture
+  parent: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
+  weight: 60
+- identifier: e08674a2-a4ee-4f64-ff5a-39ae60a4a35b
+  name: Preparing and Updating Lectures
+  pageRef: /pages/instructor-insights/preparing-and-updating-lectures
+  parent: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
+  weight: 70
+- identifier: 710f7fdb-83bb-1a95-fd5b-30961863c607
+  name: Interface with 7.00x
+  pageRef: /pages/instructor-insights/interface-with-7-00x
+  parent: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
+  weight: 80
+- identifier: e7e55393-1b25-4ee4-b4e1-2035be010fc3
+  name: Recitations and Office Hours
+  pageRef: /pages/instructor-insights/recitations-and-office-hours
+  parent: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
+  weight: 90
+- identifier: 3a8ff909-02da-833f-eba5-2a84ac9d0281
+  name: Problem Sets
+  pageRef: /pages/instructor-insights/problem-sets
+  parent: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
+  weight: 100
+- identifier: 78ab3095-aa12-1565-3215-14c52872fef0
+  name: Additional Resources
+  pageRef: /pages/instructor-insights/additional-resources
+  parent: b0b5e7d3-3ced-2a0b-c7c7-e7b0037e8722
+  weight: 110
+- identifier: ed31a68e-b7c7-3be6-92a0-ea08ac8d2606
+  name: Readings
+  pageRef: /pages/readings
+  weight: 120
+- identifier: 48d0ccdf-e4b4-c9ed-48e6-c3149ea3b5f2
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 130
+- identifier: f7b10119-c869-0de0-c3e3-bfb9302b467b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 140
+- identifier: 7dafdaa6-9b7c-cd9c-463b-415218d3d0cc
+  name: Exams
+  pageRef: /pages/exams
+  weight: 150
+- identifier: 126eabb9-a122-2700-d71e-37dc5b9ba54e
+  name: Study Materials
+  pageRef: /pages/study-materials/
+  weight: 160
+- identifier: 0d11f024-0c16-3d98-8ce1-24596123e042
+  name: Optional Readings
+  pageRef: /pages/study-materials/optional-readings
+  parent: 126eabb9-a122-2700-d71e-37dc5b9ba54e
+  weight: 170
+- identifier: b53793ad-184c-d15f-6a97-d167646ede76
+  name: Video Lectures
+  pageRef: /pages/video-lectures
+  weight: 180
